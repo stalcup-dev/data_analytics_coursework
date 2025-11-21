@@ -1,25 +1,44 @@
-# Data Analytics Coursework
+# Data Analytics Coursework (Applied Practice)
 
-A professional practice log of applied analytics work.  
-This repository contains my solutions to structured analytics exercises and scenario-based problem sets that sharpen the same skills used in production data analyst roles: extracting insight, validating data, and communicating results clearly.
+Welcome — this repo is my **professional practice log** for data analytics.  
+It’s where I take structured labs and scenario problems and push them toward the same standard I’d use in a real analyst role: **clean logic, defensible decisions, and clear communication.**
 
-> **What this is:** an applied skills sandbox + evidence of consistent technical reps.  
-> **What this isn’t:** a dump of school homework.
-> > Note: While these started as coursework labs, I rewrite, expand, and reframe the best ones into real business-impact projects suitable for hiring review.
+**Think of this as:**
+- an applied skills gym  
+- proof of consistent reps  
+- a place where I sharpen the exact workflow used in production analytics
 
+**Not this:**
+- a raw homework dump  
+- copy-paste solutions with no context  
+- “student-only” work
+
+> *Many items started as coursework prompts, but I rewrite, expand, and reframe the strongest ones into business-impact projects suitable for hiring review.*
 
 ---
 
-## 🚀 Featured Projects (Hiring-Focused)
+## ⭐ Featured Projects (Hiring-Focused)
 
-Below are coursework labs I expanded into portfolio-quality analyses with real business framing:
+These are coursework labs I upgraded into **portfolio-quality, real-world analyses**:
 
-- **Workforce & Compensation Data Wrangling**  
-  Transformed a raw global developer survey into a clean, BI-ready dataset for **compensation benchmarking** and **workforce segmentation**, removing inconsistencies, handling missingness, and stabilizing salary outliers for reliable decision-making.  
-  **Repo:** https://github.com/stalcup-dev/workforce-compensation-wrangling
+### **Workforce & Compensation Data Wrangling**
+Cleaned and transformed a global developer survey into a **BI-ready dataset** for compensation benchmarking and workforce segmentation.  
+Focused on standardizing categories, addressing missingness responsibly, and stabilizing salary outliers so the insights are **decision-grade**.
 
+**Repo:** https://github.com/stalcup-dev/workforce-compensation-wrangling
 
+---
 
+## What You’ll See in This Repo
+- *End-to-end lab solutions with clear reasoning*
+- *Business framing added to technical steps*
+- *Repeatable workflows for cleaning, analysis, and feature engineering*
+- *Progress over time — consistency matters more than flash*
+
+---
+
+If you’re reviewing this as a hiring manager:  
+my goal is simple — show **how I think**, how I clean, and how I turn messy inputs into trustworthy insights.
 
 
 
