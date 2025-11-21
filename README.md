@@ -10,12 +10,15 @@ This repository contains my solutions to structured analytics exercises and scen
 
 ---
 
-## 🚀 Featured Projects (Job-Ready)
+## 🚀 Featured Projects (Hiring-Focused)
 
-| Project | Business Focus | Skills |
-|---|---|---|
-| **Workforce & Compensation Data Wrangling** | BI-ready compensation benchmarking & workforce segmentation | Pandas, imputation strategy, categorical standardization, log scaling, feature engineering |
-| Repo | https://github.com/stalcup-dev/workforce-compensation-wrangling |  |
+Below are coursework labs I expanded into portfolio-quality analyses with real business framing:
+
+- **Workforce & Compensation Data Wrangling**  
+  Transformed a raw global developer survey into a clean, BI-ready dataset for **compensation benchmarking** and **workforce segmentation**, removing inconsistencies, handling missingness, and stabilizing salary outliers for reliable decision-making.  
+  **Repo:** https://github.com/stalcup-dev/workforce-compensation-wrangling
+
+
 
 
 
