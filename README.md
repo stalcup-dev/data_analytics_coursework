@@ -27,6 +27,18 @@ Focused on standardizing categories, addressing missingness responsibly, and sta
 
 **Repo:** https://github.com/stalcup-dev/workforce-compensation-wrangling
 
+### **Developer Compensation Analysis**
+In-depth exploratory analysis of global developer compensation patterns with rigorous outlier handling and correlation testing.
+
+**Repo:** https://github.com/stalcup-dev/dev-compensation-analysis
+
+**Highlights:**
+- Tukey 1.5×IQR outlier handling (~66% removed)
+- 10-country comparison (US ~$143k median)
+- Robustness check (salary–experience r ~0.15 → ~0.41 after filtering), job satisfaction near-zero correlation (r ~ -0.06)
+
+**Tech:** Python, pandas, seaborn, matplotlib, statsmodels
+
 ---
 
 ## What You’ll See in This Repo
